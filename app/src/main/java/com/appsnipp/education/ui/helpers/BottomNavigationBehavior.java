@@ -4,9 +4,7 @@
 
 package com.appsnipp.education.ui.helpers;
 
-/**
- * Created by kapil on 05/10/18.
- */
+
 
 import android.content.Context;
 import android.util.AttributeSet;

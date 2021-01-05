@@ -25,15 +25,15 @@
             android:adjustViewBounds="true"
             android:cropToPadding="true"
             android:maxWidth="100dp"
-            android:src="@drawable/android_developer" />
+            android:src="@drawable/english" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="App Developer"
+            android:text="English"
             android:textColor="@color/whiteTextColor"
-            android:textSize="16sp"
+            android:textSize="20sp"
             android:textStyle="bold"
             android:layout_marginBottom="10dp"/>
 

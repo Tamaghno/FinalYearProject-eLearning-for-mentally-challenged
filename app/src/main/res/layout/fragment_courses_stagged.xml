@@ -60,7 +60,7 @@
                     android:layout_height="match_parent"
 
                     android:layout_weight="60"
-                    android:src="@drawable/refer_icon">
+                    android:src="@drawable/mascotttt">
 
                 </ImageView>
             </LinearLayout>

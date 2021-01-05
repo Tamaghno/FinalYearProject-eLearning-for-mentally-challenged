@@ -80,12 +80,10 @@ public class CoursesStaggedFragment extends Fragment
 
         courseCards = new ArrayList<>();
 
-        courseCards.add(new CourseCard(1, R.drawable.course_design_thinking, "Desing Thinking", "19 courses"));
-        courseCards.add(new CourseCard(2, R.drawable.course_design_coding, "Coding", "14 courses"));
-        courseCards.add(new CourseCard(3, R.drawable.course_design_marketing, "Marketing", "24 courses"));
-        courseCards.add(new CourseCard(4, R.drawable.course_design_securityexpert, "Security Expert", "18 courses"));
-        courseCards.add(new CourseCard(5, R.drawable.course_design_whatisthisshit, "Locations", "21 courses"));
-        courseCards.add(new CourseCard(6, R.drawable.course_design_coding, "Big Data", "10 courses"));
+        courseCards.add(new CourseCard(1, R.drawable.spell, "Spelling", "10 Chapters"));
+        courseCards.add(new CourseCard(2, R.drawable.alphabet_image, "Alphabets", "TBD"));
+        courseCards.add(new CourseCard(3, R.drawable.words, "Words", "TBD"));
+
 
         adapter = new CourseRecyclerAdapter(mcontext, courseCards, this);
 
